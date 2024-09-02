@@ -2,7 +2,7 @@
 # User input can be integer and float both
 
 
-num = float(input("Enter the table number"))
+num = float(input("Enter the table number\n"))
 
 print(f"{num}*1 = {num*1:.2f}")
 print(f"{num}*2 = {num*2:.2f}")

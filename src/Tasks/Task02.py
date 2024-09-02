@@ -4,8 +4,8 @@
 # 3. Sub, Mul, Sum and Div
 # Format the output with String Format f"{}"
 
-num1 = int(input("This is the first number"))
-num2 = int(input("This is the second number"))
+num1 = int(input("This is the first number\n"))
+num2 = int(input("This is the second number\n"))
 
 # Format the output with String Format f"{}"
 # 1. Max number
